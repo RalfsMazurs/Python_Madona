@@ -15,7 +15,7 @@
 
 pirmais=float(input("ievadi pirmo skaitli: "))
 otrais=float(input("ievadi otro skaitli: "))
-tresais=float(input("ievadi otro skaitli: "))
+tresais=float(input("ievadi treso skaitli: "))
 O=pirmais**3-otrais**3-tresais**3
 
 answer = str(round(O, 5))
